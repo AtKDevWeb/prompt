@@ -1,0 +1,2 @@
+# prompt
+Scripting BASH PromptColor
